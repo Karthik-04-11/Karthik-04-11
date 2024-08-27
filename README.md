@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Karthik-04-11
-- 🌱 I’m currently learning ...-Java
+- 🌱 I’m currently learning ...-Python
 - 📫 How to reach me ...b.karthik6696@gmail.com
 
 <!---
